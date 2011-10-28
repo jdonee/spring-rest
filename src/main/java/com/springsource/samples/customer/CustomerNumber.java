@@ -30,7 +30,14 @@ public class CustomerNumber {
     }
 
 
-    /**
+    public String getNumber() {
+		return number;
+	}
+
+
+
+
+	/**
      * Creates a new random {@link CustomerNumber}.
      * 
      * @return
